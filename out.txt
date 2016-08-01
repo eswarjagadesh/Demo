@@ -1,0 +1,20 @@
+http://newtours.demoaut.com
+mercury
+mercury
+Username present
+The Flight Finder page is loaded
+Departure count10
+Departure city namesAcapulco
+Departure city namesFrankfurt
+Departure city namesLondon
+Departure city namesNew York
+Departure city namesParis
+Departure city namesPortland
+Departure city namesSan Francisco
+Departure city namesSeattle
+Departure city namesSydney
+Departure city namesZurich
+Flight InfoParis8Seattle10
+The Select Flight page is loaded
+The Book A Flight page is displayed
+Your itinerary has been booked! is displayed
